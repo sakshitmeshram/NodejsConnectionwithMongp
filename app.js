@@ -11,8 +11,6 @@ const insertData = async () => {
 
 // function insert async () => {
 
-
-
 //     collection.insertOne(
 //      ,
 //         (err, result) => {
